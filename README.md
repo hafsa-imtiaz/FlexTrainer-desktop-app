@@ -1,7 +1,7 @@
 # Flex Trainer Management System
 
 ## Overview
-The **Flex Trainer Management System** is a C# desktop application developed for CS2005: Database Systems (Spring 2024) at NUCES, Islamabad. It automates gym operations, managing members, trainers, workout/diet plans, and gym administration with a normalized SQL Server database.
+The **Flex Trainer Management System** is a C# desktop application developed for CS2005: Database Systems (Spring 2024) at NUCES, Islamabad. It is a Windows Forms desktop application designed to digitize and automate the core operations of a gym. It simplifies the management of members, trainers, diet/workout plans, and administrative tasks using a normalized SQL Server database.
 
 ## Features
 - **Member Interface**: Register, login, plan workouts/diets, book sessions, view reports, give trainer feedback.
